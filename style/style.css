@@ -142,4 +142,7 @@ body{
     .presentacion_contenido{
         width: auto;
     }
+    .presentacion_imagen{
+        width: auto;
+    }
 }
